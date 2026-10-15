@@ -1,0 +1,6 @@
+{
+  "name": "Alerta Ambiental",
+  "description": "Plataforma ciudadana y municipal para denunciar, geolocalizar y gestionar basurales a cielo abierto en la Provincia de La Rioja, Argentina.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
